@@ -8,3 +8,9 @@ Batman = [3, 6, 9]
 powers = Batman**2
 print(Batman)
 ```
+
+- [x] Wake up 
+- [x] Kiss Emmy good morning 
+- [x] Beat up the opps
+- [ ]  Aura farm
+
